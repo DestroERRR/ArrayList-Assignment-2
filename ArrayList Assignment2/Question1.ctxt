@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Question1
+comment0.text=\r\n\ ArrayList\ Assignment\ 2\ \r\n\ Question\ 1\r\n\ @author\ Jason\ Shi\ \r\n
+comment1.params=n
+comment1.target=java.util.ArrayList\ Eratosthenes(int)
+comment2.params=
+comment2.target=void\ test()
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4
